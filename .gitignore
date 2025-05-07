@@ -1,0 +1,13 @@
+ML/Result/*
+ML/Result_v1/*
+ML/Data/*
+Library/tx2rx_easy/Buffer/*
+Library/tx2rx_fast/Buffer/*
+Library/tx2rx_gnu/Buffer/*
+Library/tx2rx_gnu_new/Buffer/*
+Library/tx2rx_link/Buffer/*
+Library/tx2rx_mult/Buffer/*
+Library/tx2rx_sim/Buffer/*
+Hybrid/Calibration_new/Result/*
+Hybrid/Calibration_new/dataset/*
+Hybrid/Calibration_new/Cache/*
