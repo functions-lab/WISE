@@ -8,20 +8,8 @@ rng(0);
 %%
 
 param = GetParam_low();
-% param.transMode = "easy";
-userNum = 2;
-
-% vvv For Wireless Setting vvv
-param.gainTx = [14 30];
-param.calib = [ ...
-    "/home/zg88/CEI/Analog/Code/Hybrid/Calibration_new/Cache/channel_300_corner1.mat" ...
-    "/home/zg88/CEI/Analog/Code/Hybrid/Calibration_new/Cache/channel_300_corner2.mat" ...
-    "/home/zg88/CEI/Analog/Code/Hybrid/Calibration_new/Cache/channel_300_corner3.mat"];
-% param.calib = [ ...
-%     "/home/zg88/CEI/Analog/Code/Hybrid/Calibration_new/Cache/channel_300_user1.mat"];
-param.precode = "weight";
-param.encMode = "time";
-% ^^^ For Wireless Setting ^^^
+param.transMode = "easy";
+userNum = 1;
 param.userNum = userNum;
 
 % param.padRate = 0;
