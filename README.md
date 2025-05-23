@@ -2,9 +2,11 @@
 
 In this repository, you can find two components of code in `WISE`:
 
-a) the complex-valued machine learning model training and testing in digital [here](./Hybrid/).
+a) the complex-valued machine learning model training and testing in digital [here](./ML/).
 
-b) the analog computing simulations (the experimental codes are included, but the instructions are upon request) [here](./ML/).
+b) the analog computing simulations with randomized inputs and weights [here](./Hybrid/).
+
+(The experimental codes are also included in this repo, but the instructions are upon request)
 
 ## Reference
 
