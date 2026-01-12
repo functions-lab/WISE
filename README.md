@@ -1,4 +1,6 @@
-# [Science Advances 2026] Disaggregated machine learning via in-physics computing at radio frequency [paper](https://www.science.org/doi/10.1126/sciadv.adz0817) [news](https://pratt.duke.edu/news/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/)
+# [Science Advances 2026] Disaggregated machine learning via in-physics computing at radio frequency
+
+[[paper](https://www.science.org/doi/10.1126/sciadv.adz0817)] [[news](https://pratt.duke.edu/news/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/)]
 
 ## Concept Introduction
 
